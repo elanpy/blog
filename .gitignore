@@ -1,0 +1,10 @@
+.DS_Store
+Thumbs.db
+node_modules/
+public/
+.deploy*/
+themes/
+themes/Butterfly
+.idea/
+.github/
+.deploy_git
