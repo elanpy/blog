@@ -107,4 +107,4 @@ deploy:
   type: git
   repo: https://github.com/elanpy/elanpy.github.io.git
   branch: main
-  token: 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
+  token: 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
