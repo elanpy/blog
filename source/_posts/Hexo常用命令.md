@@ -2,6 +2,8 @@
 title: Hexo常用命令
 top_img: http://tva1.sinaimg.cn/large/008lIB40ly1h3zth54jhuj32yo1o0nph.jpg
 cover: http://tva1.sinaimg.cn/large/008lIB40ly1h3zth54jhuj32yo1o0nph.jpg
+tags: [blog, hexo]
+categories: [python]
 abbrlink: 24caea6b
 date: 2022-07-08 16:13:28
 ---
