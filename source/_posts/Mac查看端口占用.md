@@ -5,7 +5,7 @@ date: 2022-08-16 16:53:25
 tags:
 ---
 
-# Mac查看端口占用
+# Mac查看80端口占用
 
 ```shell
 sudo lsof -i:80|grep LISTEN
