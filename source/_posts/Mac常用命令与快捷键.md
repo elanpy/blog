@@ -27,7 +27,11 @@ unzip -d /tmp test.zip
  find  "要搜索的文件加路径" -name "要查找的文件名(可以使用正则)"
 ```
 
+### 根据正则表达式删除文件
 
+```shell
+ls -a | egrep "frida-gadget-*" | xargs rm -rf
+```
 
 -------
 
