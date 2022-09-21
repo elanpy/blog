@@ -33,6 +33,18 @@ unzip -d /tmp test.zip
 ls -a | egrep "frida-gadget-*" | xargs rm -rf
 ```
 
+### 重启环境变量
+
+```shell
+source ~/.bash_profile
+```
+
+### 查看环境变量
+
+```shell
+echo $PATH
+```
+
 -------
 
 
@@ -43,7 +55,7 @@ ls -a | egrep "frida-gadget-*" | xargs rm -rf
 
 | 动作                                     | 快捷键                     |
 | :--------------------------------------- | :------------------------- |
-| 快速全屏或取消全屏（需要软件支持）       | `control` + `option` + `F` |
+| 快速全屏或取消全屏（需要软件支持）       | `control` + `command` + `F` |
 | 跳到文本开头/结尾（加 shift 可以选中）   | `command` + `左/右箭头`    |
 | 跳到上一次词头/词尾（加 shift 可以选中） | `option` + `左/右箭头`     |
 | 反向搜索命令行历史记录                   | `control` + `R`            |
@@ -52,4 +64,5 @@ ls -a | egrep "frida-gadget-*" | xargs rm -rf
 | 左右切换桌面                             | `control` + `左/右箭头`    |
 | 新建窗口                                 | `command` + `N`            |
 | 新建标签页                               | `command` + `T`            |
+| 反向搜索历史记录                               | `control` + `R`            |
 
