@@ -105,6 +105,5 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: git
-  repo: https://github.com/elanpy/elanpy.github.io.git
+  repo: https://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@github.com/owner/repo.git
   branch: main
-  token: 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
