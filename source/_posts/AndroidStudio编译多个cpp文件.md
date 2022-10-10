@@ -3,6 +3,8 @@ title: AndroidStudio编译多个cpp文件
 abbrlink: 4b46a73e
 date: 2022-09-21 11:08:37
 tags:
+top_img: 'http://tva1.sinaimg.cn/mw690/008lIB40ly1h6e4hzufp9j318g0p04qp.jpg'
+cover: 'http://tva1.sinaimg.cn/mw690/008lIB40ly1h6e4hzufp9j318g0p04qp.jpg'
 ---
 先看一下目录结构
 ![1.png](http://tva1.sinaimg.cn/mw690/008lIB40ly1h6e2f4uzx4j306d075gm3.jpg)
